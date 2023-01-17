@@ -1,5 +1,5 @@
 ---
-title: Install the SAP HANA Client QA Blue
+title: Install the SAP HANA Client QA Blue updated
 description: Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10
@@ -8,13 +8,12 @@ primary_tag: products>sap-hana-cloud
 ---
 
 ## Prerequisites
- - A Microsoft Windows, Mac, or Linux machine
+ - A Microsoft Windows, Mac, or Linux machine Test text
 
 ## Details
 ### You will learn
   - How to install the SAP HANA client
   - The two locations where SAP HANA client installs can be downloaded from
-
 This tutorial will demonstrate how to install the SAP HANA client.  The next tutorial in this mission will demonstrate how to use HDBSQL, which is a command line utility included with the client's installation, to connect to SAP HANA.  The tutorials  cover Microsoft Windows, Linux and Mac.  If there are commands that are different depending on the platform, multiple sets of commands will be provided and the title will say Shell (Microsoft Windows) or Shell (Linux or Mac).  Note that on Microsoft Windows, the shell used is the Command Prompt.
 
 ---
