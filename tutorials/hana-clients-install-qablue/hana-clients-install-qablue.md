@@ -122,7 +122,7 @@ The "Custom Business Configurations app" can be used to maintain data for config
 
 [OPTION END]
 
-[OPTION BEGIN [Upload Business Configuration]]
+[OPTION BEGIN  [Upload Business Configuration]]
 
 The "Upload Business Configuration" app can be used to upload data via excel import for various configuration tables of the SaaS application
 
